@@ -1,4 +1,4 @@
-FROM openjdk:8-jre AS base
+FROM openjdk:22-ea AS base
 WORKDIR /app
 
 FROM openjdk:8-jdk AS maven
