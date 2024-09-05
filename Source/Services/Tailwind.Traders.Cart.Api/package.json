@@ -6,9 +6,9 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "@azure/cosmos": "^3.9.3",
-    "applicationinsights": "^1.4.1",
-    "async": "^2.6.1",
+    "@azure/cosmos": "^3.11.0",
+    "applicationinsights": "^3.0.0",
+    "async": "^3.0.0",
     "body-parser": "^1.18.3",
     "cookie-parser": "~1.4.3",
     "cors": "^2.8.5",
