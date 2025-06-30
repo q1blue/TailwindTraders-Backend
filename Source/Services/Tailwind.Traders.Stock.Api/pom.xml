@@ -63,7 +63,7 @@
 		<dependency>
     		<groupId>io.jsonwebtoken</groupId>
     		<artifactId>jjwt</artifactId>
-    	<version>0.2</version>
+    	<version>0.12.0</version>
 		</dependency>
 		<dependency>
 			<groupId>javax.persistence</groupId>
@@ -94,7 +94,7 @@
 		<dependency>
 			<groupId>com.azure</groupId>
 			<artifactId>azure-cosmos</artifactId>
-			<version>4.5.0</version>
+			<version>4.59.0</version>
 		</dependency>
 	</dependencies>
 
